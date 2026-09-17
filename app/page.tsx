@@ -23,7 +23,7 @@ export default function Home() {
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
               Contact
-            </a>{" "}
+            </a>{"href="https://seote-cnico.vercel.app/contact""}
             or the{" "}
             <a
               href="https://seote-cnico.vercel.app/contact"
