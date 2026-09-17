@@ -4,6 +4,8 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Tu Título Aquí',
   description: 'Tu descripción aquí',
+  alternates: {canonical: 'https://seote-cnico.vercel.app/',
+},
 };
 
 
